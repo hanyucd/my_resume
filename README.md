@@ -69,7 +69,7 @@
    *. code:
          https://github.com/hanyucd/wx_Applet
 
-   *. 其他：
+   *. 其他：  
           GitHub：https://github.com/hanyucd  
           看过的书籍有：Python学习手册、Python核心编程...  
           经常使用的工具 Atom、Git、Trello  
