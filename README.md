@@ -1,18 +1,20 @@
  ### 个人信息：
 
 > 姓名：韩宇       
-> 年龄：19       
+> 年龄：20       
 > 性别：男  
 > 电话：15328058249           
 > 微信：hy1807003141
 
 ### 申请职位：
 
-> 程序开发
+> Python | Web前端 | Node.js | 开发
 
 ### 个人标签：
 
->  技术栈   后端开发   前端开发   自学能力
+>  技术栈   后端开发   前端开发   自学能力  
+
+> 相信技术创造价值的开发者
 
 ### 产品：视频网站
 
@@ -49,27 +51,35 @@
    解决方法，如若自己还未解决就采取问人的方式。
    此项目的完成让我收获到：明白了再庞大的项目最初得先有设计，再有编码的一步步实
    现；知道了在开发过程中要对任务进行分解，这样才能清晰的完成整个问题；
-   还有就是习惯性的为code写注释和遵循命名规范等是一种良好的编码风格。
+   还有就是习惯性的为code写注释和遵循命名规范等是一种良好的编码风格 .
 
-### Vue搭建网页：
+### 产品：Vue.js搭建网页：
 
    *. 网址：http://45.78.60.34:8080/
 
    *. code：
  		   https://github.com/hanyucd/sell_webapp
 
-   *.  vue + vue-router + vue-resorce 搭建的网页。
+   *. 使用Vue.js全家桶：vue + vue-router + vue-resource 搭建的网页 .
 
 
-### 微信小程序：
+### 产品：微信小程序：
 
-   *. 通过微信官方提供的开发文档和开发工具进行程序编写；此项目是仿爱卡APP
-     做得一款汽车小程序。
+*. code：
+     https://github.com/hanyucd/wx_Applet
 
-   *. code:
-         https://github.com/hanyucd/wx_Applet
+*. 通过微信官方提供的开发文档和开发工具进行程序编写；此项目是仿爱卡APP
+  做得一款汽车小程序 .
 
-   *. 其他：  
+### 其他：
           GitHub：https://github.com/hanyucd  
           看过的书籍有：Python学习手册、Python核心编程...  
           经常使用的工具 Atom、Git、Trello  
+
+### 技能清单：
+
+*. 前端：HTML5 / CSS3 / JavaScript / ES6 / Bootstrap / jQuery / Vue.js / Gulp / Webpack
+
+*. 后端：Python / Django / JavaSE / Node.js / Linux / MySQL
+
+*. 其他：Git / Docker (了解)
