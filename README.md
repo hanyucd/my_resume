@@ -59,7 +59,7 @@
 
 ### 产品：Vue.js 搭建网页：
 
-   *. 网址： http://67.216.214.113:8080/
+   *. 网址： http://67.216.214.113:8080
 
    *. code：
  		   https://github.com/hanyucd/sell_webapp
@@ -69,7 +69,7 @@
 
 ### 产品：React.js 搭建网页：
 
-   *. 网址： http://67.216.214.113/   （ Nginx 部署 ）
+   *. 网址： http://67.216.214.113   （ Nginx 部署 ）
 
    *. code：
 		   https://github.com/hanyucd/news_react
