@@ -18,7 +18,7 @@
 
 ### 工作经历：
 
-> 两周时间学习并使用 React 搭建公司官网 ( 北京信链科技 2017/8/1 -- 2017/10/31 ).
+> 两周时间学习并使用 React 搭建公司官网 ( 北京信链科技 2017/8/1 -- 2017/10/31 ) .
 
 ### 产品：视频网站
 
@@ -59,22 +59,22 @@
 
 ### 产品：Vue.js 搭建网页：
 
-   *. 网址：http://67.216.214.113:8080/
+   *. 网址： http://67.216.214.113:8080/
 
    *. code：
  		   https://github.com/hanyucd/sell_webapp
 
-   *. 使用Vue.js全家桶：vue + vue-router + vue-resource 搭建的网页 .
+   *. 使用 Vue 全家桶：Vue + Vue-Router + Vue-resource 搭建的网页 .
 
 
 ### 产品：React.js 搭建网页：
 
-   *. 网址：http://67.216.214.113/   （ Nginx部署 ）
+   *. 网址： http://67.216.214.113/   （ Nginx 部署 ）
 
    *. code：
 		   https://github.com/hanyucd/news_react
 
-   *. 使用React全家桶：React + React-Router v4 + Axios 搭建的网页 .
+   *. 使用 React 全家桶：React + React-Router v4 + Axios 搭建的网页 .
 
 
 ### 产品：微信小程序：
