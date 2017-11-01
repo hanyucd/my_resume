@@ -14,11 +14,15 @@
 
 >  技术栈   后端开发   前端开发   自学能力  
 
-> 相信技术创造价值的开发者
+> 相信技术创造价值的开发者 .
+
+### 工作经历：
+
+> 两周时间学习并使用 React 搭建公司官网 ( 北京信链科技 2017/8/1 -- 2017/10/31 ).
 
 ### 产品：视频网站
 
-   *. 网址：http://45.78.60.34:9090/movie &nbsp;&nbsp;&nbsp;&nbsp; 阿里云搭建
+   *. 网址：http://67.216.214.113/:9090/movie &nbsp;&nbsp;&nbsp;&nbsp; 阿里云搭建
 
    *. code:
    			https://github.com/hanyucd/movieweb_python
@@ -53,14 +57,24 @@
    现；知道了在开发过程中要对任务进行分解，这样才能清晰的完成整个问题；
    还有就是习惯性的为code写注释和遵循命名规范等是一种良好的编码风格 .
 
-### 产品：Vue.js搭建网页：
+### 产品：Vue.js 搭建网页：
 
-   *. 网址：http://45.78.60.34:8080/
+   *. 网址：http://67.216.214.113:8080/
 
    *. code：
  		   https://github.com/hanyucd/sell_webapp
 
    *. 使用Vue.js全家桶：vue + vue-router + vue-resource 搭建的网页 .
+
+
+### 产品：React.js 搭建网页：
+
+   *. 网址：http://67.216.214.113/   （ Nginx部署 ）
+
+   *. code：
+		   https://github.com/hanyucd/news_react
+
+   *. 使用React全家桶：React + React-Router v4 + Axios 搭建的网页 .
 
 
 ### 产品：微信小程序：
@@ -72,13 +86,14 @@
   做得一款汽车小程序 .
 
 ### 其他：
+
           GitHub：https://github.com/hanyucd  
-          看过的书籍有：Python学习手册、Python核心编程...  
+          看过的书籍有：Python学习手册、Python核心编程、JavaScript高级程序设计 ...
           经常使用的工具 Atom、Git、Trello  
 
 ### 技能清单：
 
-*. 前端：HTML5 / CSS3 / JavaScript / ES6 / Bootstrap / jQuery / Vue.js / Gulp / Webpack
+*. 前端：HTML5 / CSS3 / JavaScript / ES6 / Bootstrap / jQuery / Vue.js / React.js / Gulp / Webpack
 
 *. 后端：Python / Django / JavaSE / Node.js / Linux / MySQL
 
