@@ -22,7 +22,7 @@
 
 ### 产品：视频网站
 
-   *. 网址：http://67.216.214.113/:9090/movie &nbsp;&nbsp;&nbsp;&nbsp; 阿里云搭建
+   *. 网址：http://67.216.214.113:9090/movie &nbsp;&nbsp;&nbsp;&nbsp; 阿里云搭建
 
    *. code:
    			https://github.com/hanyucd/movieweb_python
