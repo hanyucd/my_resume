@@ -25,7 +25,7 @@
 
    *. 网址：http://67.216.214.113:9090/movie &nbsp;&nbsp;&nbsp;&nbsp; 阿里云搭建
 
-   *. code:
+   *. code：
    			https://github.com/hanyucd/movieweb_python
 
 ### 产品相关技术：
