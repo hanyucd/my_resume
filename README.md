@@ -9,7 +9,7 @@
 
 ### 申请职位：
 
-> Python | Web前端 | Node.js | Rust（学习中）| 开发
+> Python | Web前端 | Node.js | 开发
 
 ### 个人标签：
 
@@ -85,11 +85,6 @@
 
 *. 通过微信官方提供的开发文档和开发工具进行程序编写；此项目是仿爱卡APP
   做得一款汽车小程序 .
-
-### Rust 学习：
-
-*. code：
-     https://github.com/hanyucd/rust_learn
 
 ### 其他：
 
