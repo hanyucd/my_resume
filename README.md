@@ -22,11 +22,11 @@
 
 > 两周时间学习并使用 React 搭建公司官网 ( 北京信链科技 2017/8/1 -- 2017/10/31 ) .
 
-> 注：最近在一家外包公司待了段时间，个人其实一直还是想加入一家产品公司.
+> 注：最近在一家外包公司待了段时间，个人一直还是想加入一家产品公司.
 
 ### 产品：视频网站
 
-   *. 网址：http://hanyu-6.cn:9090/movie &nbsp;&nbsp;&nbsp;&nbsp; 阿里云搭建
+   *. URL：http://hanyu-6.cn:9090/movie &nbsp;&nbsp;&nbsp;&nbsp; 阿里云搭建
 
    *. code：
    			https://github.com/hanyucd/movieweb_python
@@ -60,7 +60,7 @@
 
 ### 产品：仿豆瓣电影
 
-   *. 网址： http://132.232.76.126:8000
+   *. URL： http://132.232.76.126:8000
 
    *. code：
         https://github.com/hanyucd/douban-movie
@@ -72,7 +72,7 @@
 
 ### 产品：Vue.js 搭建网页
 
-   *. 网址： http://132.232.76.126:8080
+   *. URL： http://132.232.76.126:8080
 
    *. code：
   		   https://github.com/hanyucd/vue-music
@@ -82,7 +82,7 @@
 
 ### 产品：React.js 搭建网页
 
-   *. 网址： http://hanyu-6.cn:3000
+   *. URL： http://hanyu-6.cn:3000
 
    *. code：
   		  https://github.com/hanyucd/news_react
@@ -108,9 +108,10 @@ GitHub：https://github.com/hanyucd
 ```
 
 ### 技能清单：
-
+```
 *. 前端：HTML5 / CSS3 / JavaScript / ES6 / Bootstrap / Vue.js / React.js / Gulp / Webpack
 
 *. 后端：Python / Django / Node.js / Express / Linux / MongoDB
 
 *. 其他：Git / Docker (了解)
+```
