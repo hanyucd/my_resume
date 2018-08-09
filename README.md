@@ -6,7 +6,7 @@
 > 电话：15328058249           
 > 微信：hy1807003141  
 > 邮箱：1807003141@qq.com  
-> 状态：在职中
+> 状态：求职中
 
 ### 申请职位：
 
@@ -22,9 +22,11 @@
 
 > 两周时间学习并使用 React 搭建公司官网 ( 北京信链科技 2017/8/1 -- 2017/10/31 ) .
 
+> 注：最近在一家外包公司待了段时间，个人其实一直还是想加入一家产品公司.
+
 ### 产品：视频网站
 
-   *. 网址：http://47.95.6.177:9090/movie &nbsp;&nbsp;&nbsp;&nbsp; 阿里云搭建
+   *. 网址：http://hanyu-6.cn:9090/movie &nbsp;&nbsp;&nbsp;&nbsp; 阿里云搭建
 
    *. code：
    			https://github.com/hanyucd/movieweb_python
@@ -58,7 +60,7 @@
 
 ### 产品：仿豆瓣电影
 
-   *. 网址： http://47.95.6.177   （ Nginx 部署 ）
+   *. 网址： http://132.232.76.126:8000
 
    *. code：
         https://github.com/hanyucd/douban-movie
@@ -70,17 +72,17 @@
 
 ### 产品：Vue.js 搭建网页
 
-   *. 网址： http://47.95.6.177:8080
+   *. 网址： http://132.232.76.126:8080
 
    *. code：
-  		  https://github.com/hanyucd/sell_webapp
+  		   https://github.com/hanyucd/vue-music
 
-   *. 使用 Vue 全家桶：Vue + Vue-Router + Vue-resource 搭建的站点 .
+   *. 使用Vue 全家桶：Vue + Vue-Router + Vuex + Axios + Scss 搭建站点 .
 
 
 ### 产品：React.js 搭建网页
 
-   *. 网址： http://47.95.6.177:8888
+   *. 网址： http://hanyu-6.cn:3000
 
    *. code：
   		  https://github.com/hanyucd/news_react
